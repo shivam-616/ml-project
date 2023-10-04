@@ -1,11 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib
-import seaborn as sns
-import matplotlib.pyplot as plt
 import pickle
-from streamlit_option_menu import option_menu
 
 
 # Load your machine learning model (replace with your model loading code)
